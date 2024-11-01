@@ -1,0 +1,5 @@
+networkStat:
+  rxBytes: 19163
+  txBytes: 7992
+  rxBytesPerSec: 6387
+  txBytesPerSec: 2664

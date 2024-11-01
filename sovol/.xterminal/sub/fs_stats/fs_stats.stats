@@ -1,0 +1,5 @@
+fsStats:
+  - device: 
+    rxPerSec: 0
+    wxPerSec: 0
+    source: gua

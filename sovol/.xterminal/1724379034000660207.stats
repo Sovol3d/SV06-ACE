@@ -1,0 +1,142 @@
+time:
+  timezone: "GMT+0000"
+  timestamp: 1724379034
+  uptime: "57169.71"
+  timezoneName: "UTC"
+os:
+  type: Debian GNU/Linux
+  id: debian
+  id: debian
+  version: 11 (bullseye)
+  version: 11 (bullseye)
+  versionId: 11
+  versionId: 11
+  prettyName: Debian GNU/Linux 11 (bullseye)
+  prettyName: Debian GNU/Linux 11 (bullseye)
+  versionCodename: bullseye
+  versionCodename: bullseye
+process:
+    all: 127
+    running: 0
+    blocked: 0
+    sleeping: 0
+    topsCostCpu:
+        - cpu: 0.0%
+          pid: PID
+          memory: RSS
+          command: "COMMAND"
+        - cpu: 8.8%
+          pid: 903
+          memory: 40536
+          command: "/home/sovol/moonraker-env/bin/python"
+        - cpu: 7.4%
+          pid: 896
+          memory: 28920
+          command: "/home/sovol/klippy-env/bin/python"
+        - cpu: 5.0%
+          pid: 910
+          memory: 56712
+          command: "/home/sovol/moonraker-obico/../moonraker-obico-env/bin/python3"
+        - cpu: 2.5%
+          pid: 341742
+          memory: 0
+          command: "[kworker/0:0-events]"
+    topsCostMemory:
+        - cpu: 8.8%
+          pid: 903
+          memory: 40536
+          command: "/home/sovol/moonraker-env/bin/python"
+        - cpu: 7.4%
+          pid: 896
+          memory: 28920
+          command: "/home/sovol/klippy-env/bin/python"
+        - cpu: 12.5%
+          pid: 346799
+          memory: 11672
+          command: "/home/sovol/printer_data/build/mksclient"
+        - cpu: 1.2%
+          pid: 164
+          memory: 11176
+          command: "/lib/systemd/systemd-journald"
+        - cpu: 0.0%
+          pid: 1
+          memory: 8716
+          command: "/sbin/init"
+    all: 127
+    running: 0
+    blocked: 0
+    sleeping: 0
+    topsCostCpu:
+        - cpu: 0.0%
+          pid: PID
+          memory: RSS
+          command: "COMMAND"
+        - cpu: 8.8%
+          pid: 903
+          memory: 40536
+          command: "/home/sovol/moonraker-env/bin/python"
+        - cpu: 7.4%
+          pid: 896
+          memory: 28920
+          command: "/home/sovol/klippy-env/bin/python"
+        - cpu: 5.0%
+          pid: 910
+          memory: 56712
+          command: "/home/sovol/moonraker-obico/../moonraker-obico-env/bin/python3"
+        - cpu: 2.5%
+          pid: 341742
+          memory: 0
+          command: "[kworker/0:0-events]"
+    topsCostMemory:
+        - cpu: 8.8%
+          pid: 903
+          memory: 40536
+          command: "/home/sovol/moonraker-env/bin/python"
+        - cpu: 7.4%
+          pid: 896
+          memory: 28920
+          command: "/home/sovol/klippy-env/bin/python"
+        - cpu: 12.5%
+          pid: 346799
+          memory: 11672
+          command: "/home/sovol/printer_data/build/mksclient"
+        - cpu: 1.2%
+          pid: 164
+          memory: 11176
+          command: "/lib/systemd/systemd-journald"
+        - cpu: 0.0%
+          pid: 1
+          memory: 8716
+          command: "/sbin/init"
+networkStat:
+  rxBytes: 34869
+  txBytes: 35246
+  rxBytesPerSec: 5811
+  txBytesPerSec: 5874
+memory:
+  total: 498752
+  free: 15760
+  used: 201508
+  buffcache: 281484
+  swapTotal: 0
+  swapUsed: 0
+  swapFree: 0
+fsStats:
+e: gua
+  - device: sda
+    rxPerSec: 0
+    wxPerSec: 0
+    source: gua
+fsSize:
+    - fs: /dev/root
+      type: ext4
+      size: 7381180
+      available: 1310732
+      percent: 82%
+      mount: /
+    - fs: /dev/sda1
+      type: vfat
+      size: 15032304
+      available: 15003360
+      percent: 1%
+      mount: /home/sovol/printer_data/gcodes/sda1

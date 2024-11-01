@@ -1,0 +1,7 @@
+fsSize:
+    - fs: /dev/root
+      type: ext4
+      size: 7381180
+      available: 2545516
+      percent: 64%
+      mount: /

@@ -1,0 +1,47 @@
+process:
+    all: 117
+    running: 0
+    blocked: 0
+    sleeping: 0
+    topsCostCpu:
+        - cpu: 7.7%
+          pid: 943
+          memory: 56048
+          command: "/home/sovol/moonraker-obico/../moonraker-obico-env/bin/python3"
+        - cpu: 7.6%
+          pid: 931
+          memory: 39032
+          command: "/home/sovol/moonraker-env/bin/python"
+        - cpu: 5.6%
+          pid: 922
+          memory: 28360
+          command: "/home/sovol/klippy-env/bin/python"
+        - cpu: 4.8%
+          pid: 31255
+          memory: 5812
+          command: "/home/sovol/printer_data/build/mksclient"
+        - cpu: 2.6%
+          pid: 67161
+          memory: 0
+          command: "[kworker/0:2-events]"
+    topsCostMemory:
+        - cpu: 7.6%
+          pid: 931
+          memory: 39032
+          command: "/home/sovol/moonraker-env/bin/python"
+        - cpu: 5.6%
+          pid: 922
+          memory: 28360
+          command: "/home/sovol/klippy-env/bin/python"
+        - cpu: 1.1%
+          pid: 162
+          memory: 11100
+          command: "/lib/systemd/systemd-journald"
+        - cpu: 0.0%
+          pid: 1
+          memory: 8392
+          command: "/sbin/init"
+        - cpu: 0.5%
+          pid: 69255
+          memory: 7840
+          command: "sshd:"

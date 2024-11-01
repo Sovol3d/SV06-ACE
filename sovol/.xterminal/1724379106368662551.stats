@@ -1,0 +1,12 @@
+time:
+  timezone: "GMT+0000"
+  timestamp: 1724379106
+  uptime: "67.21"
+  timezoneName: "UTC"
+os:
+  type: Debian GNU/Linux
+  id: debian
+  version: 11 (bullseye)
+  versionId: 11
+  prettyName: Debian GNU/Linux 11 (bullseye)
+  versionCodename: bullseye

@@ -1,0 +1,6014 @@
+{
+  "_version": 330,
+  "_FontManager__default_weight": "normal",
+  "default_size": null,
+  "defaultFamily": {
+    "ttf": "DejaVu Sans",
+    "afm": "Helvetica"
+  },
+  "afmlist": [
+    {
+      "fname": "fonts/pdfcorefonts/Times-Italic.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Helvetica-BoldOblique.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Courier-Oblique.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvlo8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "light",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvbo8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Courier-Bold.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/ptmb8a.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pzdr.afm",
+      "name": "ITC Zapf Dingbats",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvb8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pplbi8a.afm",
+      "name": "Palatino",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pcrbo8a.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/ptmri8a.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/cmsy10.afm",
+      "name": "Computer Modern",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pagdo8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pagk8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "book",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvr8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pplr8a.afm",
+      "name": "Palatino",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pbkd8a.afm",
+      "name": "ITC Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pagko8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "book",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/cmex10.afm",
+      "name": "Computer Modern",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Helvetica-Oblique.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pplri8a.afm",
+      "name": "Palatino",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvb8an.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvl8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "light",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvro8an.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/cmr10.afm",
+      "name": "Computer Modern",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pbkl8a.afm",
+      "name": "ITC Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "light",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Helvetica-Bold.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/putr8a.afm",
+      "name": "Utopia",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/putri8a.afm",
+      "name": "Utopia",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pncri8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Helvetica.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pbkdi8a.afm",
+      "name": "ITC Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Symbol.afm",
+      "name": "Symbol",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Courier.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pncb8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/psyr.afm",
+      "name": "Symbol",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Courier-BoldOblique.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/ZapfDingbats.afm",
+      "name": "ZapfDingbats",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Times-BoldItalic.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/ptmr8a.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pzcmi8a.afm",
+      "name": "ITC Zapf Chancery",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pncbi8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pcrb8a.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/putb8a.afm",
+      "name": "Utopia",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/cmtt10.afm",
+      "name": "Computer Modern",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pbkli8a.afm",
+      "name": "ITC Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "light",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pcrr8a.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pcrro8a.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pplb8a.afm",
+      "name": "Palatino",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvr8an.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Times-Bold.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Times-Roman.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvro8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pagd8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/putbi8a.afm",
+      "name": "Utopia",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pncr8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/ptmbi8a.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvbo8an.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/cmmi10.afm",
+      "name": "Computer Modern",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/X11/Type1/c0582bt_.afm",
+      "name": "Courier 10 Pitch",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "normal",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/X11/Type1/c0611bt_.afm",
+      "name": "Courier 10 Pitch",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/X11/Type1/c0648bt_.afm",
+      "name": "Bitstream Charter",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "normal",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/X11/Type1/c0632bt_.afm",
+      "name": "Bitstream Charter",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/X11/Type1/c0633bt_.afm",
+      "name": "Bitstream Charter",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/X11/Type1/c0649bt_.afm",
+      "name": "Bitstream Charter",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "normal",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/X11/Type1/c0419bt_.afm",
+      "name": "Courier 10 Pitch",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "normal",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/X11/Type1/c0583bt_.afm",
+      "name": "Courier 10 Pitch",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    }
+  ],
+  "ttflist": [
+    {
+      "fname": "fonts/ttf/DejaVuSansMono.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmr10.ttf",
+      "name": "cmr10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizFourSymBol.ttf",
+      "name": "STIXSizeFourSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXGeneralBolIta.ttf",
+      "name": "STIXGeneral",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerif.ttf",
+      "name": "DejaVu Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizOneSymReg.ttf",
+      "name": "STIXSizeOneSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXNonUniIta.ttf",
+      "name": "STIXNonUnicode",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSans-Bold.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSansMono-Oblique.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXNonUniBol.ttf",
+      "name": "STIXNonUnicode",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSansMono-BoldOblique.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSans-Oblique.ttf",
+      "name": "DejaVu Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizThreeSymReg.ttf",
+      "name": "STIXSizeThreeSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXNonUni.ttf",
+      "name": "STIXNonUnicode",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizFiveSymReg.ttf",
+      "name": "STIXSizeFiveSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSansDisplay.ttf",
+      "name": "DejaVu Sans Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizOneSymBol.ttf",
+      "name": "STIXSizeOneSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmb10.ttf",
+      "name": "cmb10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSansMono-Bold.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizFourSymReg.ttf",
+      "name": "STIXSizeFourSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerifDisplay.ttf",
+      "name": "DejaVu Serif Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizTwoSymReg.ttf",
+      "name": "STIXSizeTwoSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerif-Bold.ttf",
+      "name": "DejaVu Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmex10.ttf",
+      "name": "cmex10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerif-BoldItalic.ttf",
+      "name": "DejaVu Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXGeneral.ttf",
+      "name": "STIXGeneral",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmmi10.ttf",
+      "name": "cmmi10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizTwoSymBol.ttf",
+      "name": "STIXSizeTwoSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerif-Italic.ttf",
+      "name": "DejaVu Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizThreeSymBol.ttf",
+      "name": "STIXSizeThreeSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmsy10.ttf",
+      "name": "cmsy10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXGeneralBol.ttf",
+      "name": "STIXGeneral",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSans.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXGeneralItalic.ttf",
+      "name": "STIXGeneral",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXNonUniBolIta.ttf",
+      "name": "STIXNonUnicode",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSans-BoldOblique.ttf",
+      "name": "DejaVu Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmtt10.ttf",
+      "name": "cmtt10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmss10.ttf",
+      "name": "cmss10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/cmmi10.ttf",
+      "name": "cmmi10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/discorda.ttf",
+      "name": "Discordance BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/unanimoi.ttf",
+      "name": "Unanimous Inverted BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/scalines.ttf",
+      "name": "Scalelines BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/spheroid.ttf",
+      "name": "Spheroids BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/combusti.ttf",
+      "name": "Combustion I BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/mima4x4i.ttf",
+      "name": "Mishmash 4x4i BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/ttf-bitstream-vera/Vera.ttf",
+      "name": "Bitstream Vera Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/upheavtt.ttf",
+      "name": "Upheaval TT BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/vacantz.ttf",
+      "name": "Vacant Capz BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/graze.ttf",
+      "name": "Graze BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/elsewhe2.ttf",
+      "name": "Elsewhere 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lineding.ttf",
+      "name": "Line Dings BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/frizzed.ttf",
+      "name": "Frizzed BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/queasyol.ttf",
+      "name": "Queasy Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/powdwrk5.ttf",
+      "name": "Powderworks BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/slenmini.ttf",
+      "name": "Slender Mini BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/blonibld.ttf",
+      "name": "Blackoninaut Bold BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/grotesq.ttf",
+      "name": "Grotesque BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/visitor2.ttf",
+      "name": "Visitor TT2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/binx01s.ttf",
+      "name": "Binary X 01s BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bocumaad.ttf",
+      "name": "Bocuma Angle Dent BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/embosst2.ttf",
+      "name": "Embossing Tape 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/inertia.ttf",
+      "name": "Inertia BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/skullcap.ttf",
+      "name": "Skull Capz BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gaposiso.ttf",
+      "name": "Gaposis Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/sarcasti.ttf",
+      "name": "Sarcastic BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/combusii.ttf",
+      "name": "Combustion II BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zoidal.ttf",
+      "name": "Zoidal BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/ttf-bitstream-vera/VeraSe.ttf",
+      "name": "Bitstream Vera Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/enthuse.ttf",
+      "name": "Enthuse BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/urcompo.ttf",
+      "name": "Your Complex O BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/genotyrh.ttf",
+      "name": "genotype RH BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/brassknu.ttf",
+      "name": "Brass Knuckle BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lucid2o.ttf",
+      "name": "Lucid Type B Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/embosst1.ttf",
+      "name": "Embossing Tape 1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/fullcomp.ttf",
+      "name": "Fully Completely BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/rehearsp.ttf",
+      "name": "Rehearsal Point BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/nsecthin.ttf",
+      "name": "Nanosecond Thin BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/falsposr.ttf",
+      "name": "False Positive Round BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/supragl.ttf",
+      "name": "Supra Genius Lines BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/keyridge.ttf",
+      "name": "Key Ridge BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/undrscr2.ttf",
+      "name": "Underscore 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/collecrs.ttf",
+      "name": "Collective RS BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/elsewher.ttf",
+      "name": "Elsewhere BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/circulat.ttf",
+      "name": "Circulate BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/amalgama.ttf",
+      "name": "Amalgamate BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/graviseg.ttf",
+      "name": "Gravitate Segments BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/techniqo.ttf",
+      "name": "Technique OL BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bocumade.ttf",
+      "name": "Bocuma Dent BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/katainac.ttf",
+      "name": "Katalyst inactive BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/aescrawl.ttf",
+      "name": "?nigma Scrawl 4 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/fidgety.ttf",
+      "name": "Fidgety BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/obloquys.ttf",
+      "name": "Obloquy Solid BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/binaryx.ttf",
+      "name": "Binary X BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/tsextols.ttf",
+      "name": "Typesource Extol S BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quadrcal.ttf",
+      "name": "Quadratic Cal BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/obstacle.ttf",
+      "name": "Obstacle BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/1015sn.ttf",
+      "name": "10.15 Saturday Night BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/compc2s.ttf",
+      "name": "Compliant Confuse 2s BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/rotund.ttf",
+      "name": "Rotund BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gasping.ttf",
+      "name": "Gasping BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/ttf-bitstream-vera/VeraMoIt.ttf",
+      "name": "Bitstream Vera Sans Mono",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jeopardt.ttf",
+      "name": "Jeopardize Thick BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/chumbly.ttf",
+      "name": "Chumbly BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/sequence.ttf",
+      "name": "Sequence BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/dsrom10.ttf",
+      "name": "dsrom10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/turmoil.ttf",
+      "name": "Turmoil BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
+      "name": "DejaVu Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/8bitlimo.ttf",
+      "name": "8-bit Limit O BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/claw1.ttf",
+      "name": "CLAW 1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/3dlet.ttf",
+      "name": "3D LET BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/licostrg.ttf",
+      "name": "Licorice Strings BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/36daythk.ttf",
+      "name": "36 days ago Thick BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zenith.ttf",
+      "name": "Zenith BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/hearts.ttf",
+      "name": "Hearts BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/hdmaker.ttf",
+      "name": "Head-Ding Maker BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/crkdwno2.ttf",
+      "name": "Crackdown O2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bewildet.ttf",
+      "name": "Bewilder Thick BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quantfh.ttf",
+      "name": "Quantum Flat Hollow BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/flipside.ttf",
+      "name": "Flipside BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/volatil2.ttf",
+      "name": "Volatile 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/kirbyss.ttf",
+      "name": "Kirby No Kira Kizzu BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/hbevel.ttf",
+      "name": "Heavy Bevel BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/techover.ttf",
+      "name": "techno overload BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/ataxiao.ttf",
+      "name": "Ataxia Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/yearend.ttf",
+      "name": "Yearend BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/8blimro.ttf",
+      "name": "8-bit Limit RO BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dented.ttf",
+      "name": "Dented BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/fbsbltc2.ttf",
+      "name": "Fatboy Slim BLTC 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/amalgamo.ttf",
+      "name": "Amalgamate O BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/Splatz2.ttf",
+      "name": "Splatz BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/ravcater.ttf",
+      "name": "Ravenous Caterpillar BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/fasciicr.ttf",
+      "name": "Fascii Cross BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jmacscrl.ttf",
+      "name": "Johnny Mac Scrawl BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/wobbly.ttf",
+      "name": "Wobbly BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/36daysag.ttf",
+      "name": "36 days ago BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/waywards.ttf",
+      "name": "Wayward Shadow BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/underscr.ttf",
+      "name": "Underscore BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/ttf-bitstream-vera/VeraSeBd.ttf",
+      "name": "Bitstream Vera Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/aspartam.ttf",
+      "name": "Aspartame BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/kaliberr.ttf",
+      "name": "Kaliber Round BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/b2sq.ttf",
+      "name": "Bend 2 Squares BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dblayer4.ttf",
+      "name": "DB Layer 4 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/ataxia.ttf",
+      "name": "Ataxia BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/kalibers.ttf",
+      "name": "Kaliber Solid BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lucid.ttf",
+      "name": "Lucid Type A BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/intersc.ttf",
+      "name": "Intersect C BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/fasciism.ttf",
+      "name": "Fascii Smudge BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/euphoric.ttf",
+      "name": "Euphoric BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/nymonak.ttf",
+      "name": "Nymonak BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/whipsnap.ttf",
+      "name": "Whippersnapper BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/cmr10.ttf",
+      "name": "cmr10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/freaktur.ttf",
+      "name": "Freak Turbulence BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bandmess.ttf",
+      "name": "Bandwidth Bandmess BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jupiterc.ttf",
+      "name": "Jupiter Crash BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/Unxgalo.ttf",
+      "name": "Unexplored Galaxies O BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/Unxgala.ttf",
+      "name": "Unexplored Galaxies BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/nsecthck.ttf",
+      "name": "Nanosecond Thick BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/relapse.ttf",
+      "name": "Relapse BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/fbsbltc.ttf",
+      "name": "Fatboy Slim BLTC BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jekyll.ttf",
+      "name": "Jekyll BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zirconia.ttf",
+      "name": "Zirconia BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/qbicle2.ttf",
+      "name": "Qbicle 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/moronmis.ttf",
+      "name": "Moronic Misfire BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/chintzys.ttf",
+      "name": "Chintzy CPU Shadow BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/draggleo.ttf",
+      "name": "Draggle over kerned BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/joltcaff.ttf",
+      "name": "Jolt Of Caffeine BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gathrgap.ttf",
+      "name": "Gather Gapped BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/Unxgalaw.ttf",
+      "name": "Unexplored Galaxies W BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/mimaalt1.ttf",
+      "name": "Mishmash ALT1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/entlayrb.ttf",
+      "name": "Entangled Layer B BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pneutall.ttf",
+      "name": "Pneumatics Tall BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bumped.ttf",
+      "name": "Bumped BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/raydiat2.ttf",
+      "name": "Raydiate BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/konector.ttf",
+      "name": "Konector BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/binxchr.ttf",
+      "name": "Binary X CHR BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/mimafuse.ttf",
+      "name": "Mishmash Fuse BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/acidrefl.ttf",
+      "name": "Acid Reflux BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quadrtic.ttf",
+      "name": "Quadratic BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/edundot.ttf",
+      "name": "Edit Undo Dot BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/compc1o.ttf",
+      "name": "Compliant Confuse 1o BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dephun2.ttf",
+      "name": "Dephunked BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/unlearn2.ttf",
+      "name": "Unlearned 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/weatherd.ttf",
+      "name": "Weathered BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/tetri.ttf",
+      "name": "Tetricide BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/xhume.ttf",
+      "name": "Xhume BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quandary.ttf",
+      "name": "Quandary BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/encapsul.ttf",
+      "name": "Encapsulate BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/compc3s.ttf",
+      "name": "Compliant Confuse 3s BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/qbicle4.ttf",
+      "name": "Qbicle 4 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quantrh.ttf",
+      "name": "Quantum Round Hollow BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/claw2.ttf",
+      "name": "CLAW 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dashdot.ttf",
+      "name": "Dash Dot BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/90stars.ttf",
+      "name": "90 Stars BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/kaliberx.ttf",
+      "name": "Kaliber Xtreme BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/qbicle3.ttf",
+      "name": "Qbicle 3 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/rehearsc.ttf",
+      "name": "Rehearsal Curve BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/ttf-bitstream-vera/VeraMono.ttf",
+      "name": "Bitstream Vera Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jaspers.ttf",
+      "name": "Jasper Solid BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/snailets.ttf",
+      "name": "Snailets BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/upraise.ttf",
+      "name": "Upraise BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/4shadowo.ttf",
+      "name": "Foreshadow OL BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/cmsy10.ttf",
+      "name": "cmsy10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/cleavttr.ttf",
+      "name": "Cleaved TTR BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/brigadom.ttf",
+      "name": "Brigadoom BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/ecliptic.ttf",
+      "name": "Ecliptic BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/intersec.ttf",
+      "name": "Intersect BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/unlearne.ttf",
+      "name": "Unlearned BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bknuckst.ttf",
+      "name": "Brass Knuckle Star BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dblayer1.ttf",
+      "name": "DB Layer 1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/yesterda.ttf",
+      "name": "Yesterday BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/draggle.ttf",
+      "name": "Draggle BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bobcaygr.ttf",
+      "name": "Bobcaygeon Plain BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/hyperion.ttf",
+      "name": "Hyperion Sunset BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/rehearso.ttf",
+      "name": "Rehearsal Offset BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/vertigup.ttf",
+      "name": "Vertigo Upright BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lamebrai.ttf",
+      "name": "Lamebrain BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/cmex10.ttf",
+      "name": "cmex10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/kickflip.ttf",
+      "name": "Kickflip BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/monkphon.ttf",
+      "name": "Monkey Phonics BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/janken.ttf",
+      "name": "Janken BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/tonik.ttf",
+      "name": "Tonik BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/eufm10.ttf",
+      "name": "eufm10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/arthriti.ttf",
+      "name": "Arthritis BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/yourcomp.ttf",
+      "name": "Your Complex BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pneuwide.ttf",
+      "name": "Pneumatics Wide BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "expanded",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/nucleus.ttf",
+      "name": "Nucleus BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/rotundo.ttf",
+      "name": "Rotund Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/chemrea.ttf",
+      "name": "Chemical Reaction A BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dblayer2.ttf",
+      "name": "DB Layer 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/yonder.ttf",
+      "name": "Yonder BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/united.ttf",
+      "name": "UNITED BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pindownp.ttf",
+      "name": "Pindown Plain BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/wyvernww.ttf",
+      "name": "Wyvern Wings Wyde BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gesturet.ttf",
+      "name": "Gesture Thin BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/mishmash.ttf",
+      "name": "Mishmash BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/minikott.ttf",
+      "name": "Mini Kaliber O TT BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/conduit2.ttf",
+      "name": "Conduit 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quillexo.ttf",
+      "name": "Quill Experimental O BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/regenera.ttf",
+      "name": "Regenerate BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/crackdr2.ttf",
+      "name": "Crackdown R2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/opiated.ttf",
+      "name": "Opiated BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/konecto1.ttf",
+      "name": "Konector O1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/encappln.ttf",
+      "name": "Encapsulate Plain BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/sclnmaze.ttf",
+      "name": "Scalelines Maze BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dyphusio.ttf",
+      "name": "Dyphusion BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/automati.ttf",
+      "name": "Automatica BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/redundan.ttf",
+      "name": "Redundant BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/variance.ttf",
+      "name": "Variance BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/vertigo2.ttf",
+      "name": "Vertigo 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/telephas.ttf",
+      "name": "Telephasic BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/roughday.ttf",
+      "name": "Rough Day BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/spacious.ttf",
+      "name": "Spacious BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/minikstt.ttf",
+      "name": "Mini Kaliber S TT BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/saunder.ttf",
+      "name": "Saunder BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/Condui2i.ttf",
+      "name": "Conduit 2 Italics BRK",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/rsfs10.ttf",
+      "name": "rsfs10",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lethargi.ttf",
+      "name": "Lethargic BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/supragc.ttf",
+      "name": "Supra Genius Curves BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bendable.ttf",
+      "name": "Bendable BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/ttf-bitstream-vera/VeraMoBI.ttf",
+      "name": "Bitstream Vera Sans Mono",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jeopardi.ttf",
+      "name": "Jeopardize BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zurklezo.ttf",
+      "name": "Zurklez Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/enthuses.ttf",
+      "name": "Enthuse Solid BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/revertro.ttf",
+      "name": "Revert Round BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/crkdwno1.ttf",
+      "name": "Crackdown O1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/tsextolo.ttf",
+      "name": "Typesource Extol O BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/mimaalt2.ttf",
+      "name": "Mishmash ALT2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gyroresh.ttf",
+      "name": "Gyrose Shift BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/hassle.ttf",
+      "name": "Hassle BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/obstacll.ttf",
+      "name": "Obstacle Lines BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/8bitlimr.ttf",
+      "name": "8-bit Limit R BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/symmetry.ttf",
+      "name": "Symmetry BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pincers.ttf",
+      "name": "Pincers BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bobcayge.ttf",
+      "name": "Bobcaygeon BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quillexs.ttf",
+      "name": "Quill Experimental S BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dblbogey.ttf",
+      "name": "Double Bogey BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/spaciouo.ttf",
+      "name": "Spacious Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/loopy.ttf",
+      "name": "Loopy BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dynamic.ttf",
+      "name": "Dynamic BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/inevitab.ttf",
+      "name": "Inevitable BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zirccube.ttf",
+      "name": "Zirconia Cubic BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/tearful.ttf",
+      "name": "Tearful BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bin01st.ttf",
+      "name": "Binary 01s BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/crkdownr.ttf",
+      "name": "Crackdown R BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bocuma.ttf",
+      "name": "Bocuma BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/amplitud.ttf",
+      "name": "Amplitude BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/thwart.ttf",
+      "name": "Thwart BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/slenstub.ttf",
+      "name": "Slender Stubby BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/volatil1.ttf",
+      "name": "Volatile 1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zoetrope.ttf",
+      "name": "Zoetrope BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/yielding.ttf",
+      "name": "Yielding BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/Tragic2.ttf",
+      "name": "TRAGIC BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/4shadow.ttf",
+      "name": "Foreshadow BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/fasciisc.ttf",
+      "name": "Fascii Scraggly BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/compc1s.ttf",
+      "name": "Compliant Confuse 1s BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/qlumpysh.ttf",
+      "name": "Qlumpy Shadow BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/spheroix.ttf",
+      "name": "Spheroids X BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/kinkaid.ttf",
+      "name": "Kinkaid BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/8bitlim.ttf",
+      "name": "8-bit Limit BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gesture.ttf",
+      "name": "Gesture BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lightout.ttf",
+      "name": "Lights Out BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/collecto.ttf",
+      "name": "Collective O BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/embosst3.ttf",
+      "name": "Embossing Tape 3 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/koneerie.ttf",
+      "name": "Konector Eerie BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bocumaba.ttf",
+      "name": "Bocuma Batty BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dblayer3.ttf",
+      "name": "DB Layer 3 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/sqroute.ttf",
+      "name": "Square Route BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jargon.ttf",
+      "name": "Jargon BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dastardl.ttf",
+      "name": "Dastardly BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pseudo.ttf",
+      "name": "Pseudo BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/kurvatur.ttf",
+      "name": "Kurvature BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/detonate.ttf",
+      "name": "Detonate BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/phorfeis.ttf",
+      "name": "Phorfeit Slant BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/handmedo.ttf",
+      "name": "Hand Me Down O BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/Blox2.ttf",
+      "name": "Blox BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/unrespon.ttf",
+      "name": "Unresponsive BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/msbm10.ttf",
+      "name": "msbm10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jawbhard.ttf",
+      "name": "Jawbreaker Hard BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/knot.ttf",
+      "name": "Knot BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/exagger8.ttf",
+      "name": "Exaggerate BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lowdown.ttf",
+      "name": "Lowdown BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/conduit.ttf",
+      "name": "Conduit BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pneumati.ttf",
+      "name": "Pneumatics BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/imposs.ttf",
+      "name": "Impossibilium BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/ttf-bitstream-vera/VeraBI.ttf",
+      "name": "Bitstream Vera Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lucid2.ttf",
+      "name": "Lucid Type B BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/offkiltr.ttf",
+      "name": "Off Kilter R BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/notqr.ttf",
+      "name": "Not Quite Right BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/irritate.ttf",
+      "name": "Irritate BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/mima4x4o.ttf",
+      "name": "Mishmash 4x4o BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/reason.ttf",
+      "name": "Reason BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jagged.ttf",
+      "name": "Jagged BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/vanished.ttf",
+      "name": "Vanished BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/unanimo.ttf",
+      "name": "Unanimous BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/ccapshad.ttf",
+      "name": "Corpulent Caps Shadow BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/fascii.ttf",
+      "name": "Fascii BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/aftermat.ttf",
+      "name": "Aftermath BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/nostalgi.ttf",
+      "name": "Nostalgia BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/entlayra.ttf",
+      "name": "Entangled Layer A BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/18holes.ttf",
+      "name": "18 Holes BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/mysteron.ttf",
+      "name": "Mysterons BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/alphbeta.ttf",
+      "name": "Alpha Beta BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gyrosesq.ttf",
+      "name": "Gyrose Squeeze BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/fauxsnow.ttf",
+      "name": "Faux Snow BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gyneric.ttf",
+      "name": "Gyneric BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bewilder.ttf",
+      "name": "Bewilder BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pixlkrud.ttf",
+      "name": "Pixel Krud BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/vigilanc.ttf",
+      "name": "Vigilance BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lyneous.ttf",
+      "name": "Lyneous BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jawbrko2.ttf",
+      "name": "Jawbreaker OL2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/simplto2.ttf",
+      "name": "Simpleton BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/plasdrip.ttf",
+      "name": "Plasma Drip BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/clasict2.ttf",
+      "name": "Classic Trash 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/acknowtt.ttf",
+      "name": "Acknowledge TT BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/obloquyo.ttf",
+      "name": "Obloquy Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quarthin.ttf",
+      "name": "Quarterly Thin BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lucido.ttf",
+      "name": "Lucid Type A Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/stmary10.ttf",
+      "name": "stmary10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/mobilize.ttf",
+      "name": "Mobilize BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/syntheti.ttf",
+      "name": "Synthetic BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/galvaniz.ttf",
+      "name": "Galvanize BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/xeroxmal.ttf",
+      "name": "Xerox Malfunction BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/graveyrd.ttf",
+      "name": "Graveyard BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/vantage.ttf",
+      "name": "Vantage BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gosebmp2.ttf",
+      "name": "Goose Bumps II BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/genotyrs.ttf",
+      "name": "genotype RS BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lyneousl.ttf",
+      "name": "Lyneous Linear BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/binaryt.ttf",
+      "name": "Binary BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/syndrome.ttf",
+      "name": "Syndrome BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/hairball.ttf",
+      "name": "Hairball BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/whatever.ttf",
+      "name": "Whatever BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/xtrusion.ttf",
+      "name": "Xtrusion BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/brigadow.ttf",
+      "name": "Brigadoom Wide BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "expanded",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/wigsquig.ttf",
+      "name": "Wiggly Squiggly BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/ttf-bitstream-vera/VeraMoBd.ttf",
+      "name": "Bitstream Vera Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/wayward.ttf",
+      "name": "Wayward BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/ubiquity.ttf",
+      "name": "Ubiquity BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/falsepos.ttf",
+      "name": "False Positive BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/waver.ttf",
+      "name": "waver BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jawbrko1.ttf",
+      "name": "Jawbreaker OL1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/entangle.ttf",
+      "name": "Entangled BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/fasciitw.ttf",
+      "name": "Fascii Twigs BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/chintzy.ttf",
+      "name": "Chintzy CPU BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/madscrwl.ttf",
+      "name": "Mad's Scrawl BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+      "name": "WenQuanYi Zen Hei",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/darkside.ttf",
+      "name": "Dark Side BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/larkspur.ttf",
+      "name": "Larkspur BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf",
+      "name": "DejaVu Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/candystr.ttf",
+      "name": "Candy Stripe BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gestures.ttf",
+      "name": "Gesture Slant BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/backlash.ttf",
+      "name": "Backlash BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/offkiltl.ttf",
+      "name": "Off Kilter L BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/ryuker.ttf",
+      "name": "Ryuker BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/chemreb.ttf",
+      "name": "Chemical Reaction B BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/esint10.ttf",
+      "name": "esint10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/queasy.ttf",
+      "name": "Queasy BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gravitat.ttf",
+      "name": "Gravitate BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bandless.ttf",
+      "name": "Bandwidth Bandless BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gyneric3.ttf",
+      "name": "Gyneric 3D BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/qbicle1.ttf",
+      "name": "Qbicle 1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/plasdrpe.ttf",
+      "name": "Plasma Drip Empty BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/hillock.ttf",
+      "name": "Hillock BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/wyvernwi.ttf",
+      "name": "Wyvern Wings BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/compc3o.ttf",
+      "name": "Compliant Confuse 3o BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/kataacti.ttf",
+      "name": "Katalyst active BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/handmeds.ttf",
+      "name": "Hand Me Down S BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/b2sqol2.ttf",
+      "name": "Bend 2 Squares OL2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/blonirex.ttf",
+      "name": "Blackoninaut Redux BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/stagnati.ttf",
+      "name": "Stagnation BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/granular.ttf",
+      "name": "Granular BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/weaver.ttf",
+      "name": "Weaver BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/msam10.ttf",
+      "name": "msam10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quanttap.ttf",
+      "name": "Quantum Taper BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jasper.ttf",
+      "name": "Jasper BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zurklezs.ttf",
+      "name": "Zurklez Solid BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/overhead.ttf",
+      "name": "Overhead BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/forcible.ttf",
+      "name": "Forcible BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/withstan.ttf",
+      "name": "Withstand BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/vertiup2.ttf",
+      "name": "Vertigo Upright 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/dystorqu.ttf",
+      "name": "Dystorque BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/nominal.ttf",
+      "name": "Nominal BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quaranti.ttf",
+      "name": "Quarantine BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quantflt.ttf",
+      "name": "Quantum Flat BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/slenderw.ttf",
+      "name": "Slender Wide BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "expanded",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zeldadxt.ttf",
+      "name": "Zelda DX TT BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/reasonsh.ttf",
+      "name": "Reason Shadow BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/wagerlos.ttf",
+      "name": "Wager Lost BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zephyreg.ttf",
+      "name": "Zephyrean Gust BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/urcompi.ttf",
+      "name": "Your Complex I BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gesturts.ttf",
+      "name": "Gesture Thin Slant BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/euphor3d.ttf",
+      "name": "Euphoric 3D BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/xmaslght.ttf",
+      "name": "Xmas Lights BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/Unxgalwo.ttf",
+      "name": "Unexplored Galaxies WO BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gyrose.ttf",
+      "name": "Gyrose BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/grudge.ttf",
+      "name": "Grudge BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/compc2o.ttf",
+      "name": "Compliant Confuse 2o BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bknuckss.ttf",
+      "name": "Brass Knuckle SS BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/sideways.ttf",
+      "name": "Sideways BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/edunline.ttf",
+      "name": "Edit Undo Line BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/rambling.ttf",
+      "name": "Rambling BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/entplain.ttf",
+      "name": "Entangled Plain BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gaposiss.ttf",
+      "name": "Gaposis Solid BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quacksal.ttf",
+      "name": "Quacksalver BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/b2sqol1.ttf",
+      "name": "Bend 2 Squares OL1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/keyrialt.ttf",
+      "name": "Key Ridge alt BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/macropsi.ttf",
+      "name": "Macropsia BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quarthck.ttf",
+      "name": "Quarterly Thick BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/inktank.ttf",
+      "name": "Ink Tank BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pindwnxp.ttf",
+      "name": "Pindown X Plain BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/editundo.ttf",
+      "name": "Edit Undo BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/mincer.ttf",
+      "name": "Mincer BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/jawbreak.ttf",
+      "name": "Jawbreaker BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/combuspl.ttf",
+      "name": "Combustion Plain BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/techniqu.ttf",
+      "name": "Technique BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/registry.ttf",
+      "name": "Registry BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/revert.ttf",
+      "name": "Revert BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/combustt.ttf",
+      "name": "Combustion Tall BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/homespun.ttf",
+      "name": "Homespun TT BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/ttf-bitstream-vera/VeraIt.ttf",
+      "name": "Bitstream Vera Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/inkswipe.ttf",
+      "name": "Ink Swipes BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/Swirled2.ttf",
+      "name": "Swirled BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pdark.ttf",
+      "name": "Perfect Dark BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/genotyps.ttf",
+      "name": "genotype S BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/hyde.ttf",
+      "name": "Hyde BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/neuralol.ttf",
+      "name": "Neural Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/underwho.ttf",
+      "name": "Underwhelmed Outline BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/clasict1.ttf",
+      "name": "Classic Trash 1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/grapple.ttf",
+      "name": "Grapple BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zerovelo.ttf",
+      "name": "Zero Velocity BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/phorfeir.ttf",
+      "name": "Phorfeit Regular BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/persuasi.ttf",
+      "name": "Persuasion BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/interso.ttf",
+      "name": "Intersect O BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/syracuse.ttf",
+      "name": "Syracuse BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/numskull.ttf",
+      "name": "Numskull BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/outersid.ttf",
+      "name": "Outer Sider BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bitbttf.ttf",
+      "name": "Bit Blocks TTF BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bandwdth.ttf",
+      "name": "Bandwidth BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/orbicula.ttf",
+      "name": "Orbicular BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/qlumpy.ttf",
+      "name": "Qlumpy BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bocumang.ttf",
+      "name": "Bocuma Angle BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gosebmps.ttf",
+      "name": "Goose Bumps BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bleakseg.ttf",
+      "name": "Bleak Segments BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/lyx/wasy10.ttf",
+      "name": "wasy10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/bloktilt.ttf",
+      "name": "Block Tilt BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/grudge2.ttf",
+      "name": "Grudge 2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/yoshisst.ttf",
+      "name": "Yoshi's Story game text BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/blackoni.ttf",
+      "name": "Blackoninaut BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/quantrnd.ttf",
+      "name": "Quantum Round BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pindown.ttf",
+      "name": "Pindown BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/decrepit.ttf",
+      "name": "Decrepit BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/galapogo.ttf",
+      "name": "Galapogos BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/weathers.ttf",
+      "name": "Weathered Solid BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/naughts.ttf",
+      "name": "Naughts BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/visitor1.ttf",
+      "name": "Visitor TT1 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/wager.ttf",
+      "name": "Wager BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/hackslsh.ttf",
+      "name": "Hack & Slash BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/konecto2.ttf",
+      "name": "Konector O2 BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/ravaged2.ttf",
+      "name": "Ravaged By Years BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gr8higts.ttf",
+      "name": "Great Heights BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/underwhe.ttf",
+      "name": "Underwhelmed BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/neural.ttf",
+      "name": "Neural BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/1015snr.ttf",
+      "name": "10.15 Saturday Night R BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/pindwnx.ttf",
+      "name": "Pindown X BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/nanosecw.ttf",
+      "name": "Nanosecond Wide BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/vindicti.ttf",
+      "name": "Vindictive BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/collects.ttf",
+      "name": "Collective S BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/Strande2.ttf",
+      "name": "Stranded BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/wincing.ttf",
+      "name": "Wincing BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/vertigo.ttf",
+      "name": "Vertigo BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/gather.ttf",
+      "name": "Gather BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/wagerwon.ttf",
+      "name": "Wager Won BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lakeshor.ttf",
+      "name": "Lakeshore BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/ttf-bitstream-vera/VeraBd.ttf",
+      "name": "Bitstream Vera Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/collecro.ttf",
+      "name": "Collective RO BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/aesymatt.ttf",
+      "name": "? Systematic TT BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/xipital.ttf",
+      "name": "Xipital BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/ccaps.ttf",
+      "name": "Corpulent Caps BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/setbackt.ttf",
+      "name": "Setback TT BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/genotyph.ttf",
+      "name": "genotype H BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/slender.ttf",
+      "name": "Slender BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/combustw.ttf",
+      "name": "Combustion Wide BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "expanded",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/ilits.ttf",
+      "name": "It Lives In The Swamp BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/zephyrea.ttf",
+      "name": "Zephyrean BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/lynx.ttf",
+      "name": "LYNX BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/extracti.ttf",
+      "name": "Extraction BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/binchrt.ttf",
+      "name": "Binary CHR BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/codelife.ttf",
+      "name": "Code Of Life BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/truetype/aenigma/spastic2.ttf",
+      "name": "Spastic BRK",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    }
+  ],
+  "__class__": "FontManager"
+}

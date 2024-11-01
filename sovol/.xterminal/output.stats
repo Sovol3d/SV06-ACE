@@ -1,0 +1,138 @@
+time:
+  timezone: "GMT+0000"
+  timestamp: 1724407175
+  uptime: "13326.42"
+  timezoneName: "UTC"
+os:
+  type: Debian GNU/Linux
+  id: debian
+  version: 11 (bullseye)
+  versionId: 11
+  prettyName: Debian GNU/Linux 11 (bullseye)
+  versionCodename: bullseye
+process:
+    all: 117
+    running: 0
+    blocked: 0
+    sleeping: 0
+    topsCostCpu:
+        - cpu: 7.7%
+          pid: 943
+          memory: 56048
+          command: "/home/sovol/moonraker-obico/../moonraker-obico-env/bin/python3"
+        - cpu: 7.6%
+          pid: 931
+          memory: 39032
+          command: "/home/sovol/moonraker-env/bin/python"
+        - cpu: 5.6%
+          pid: 922
+          memory: 28360
+          command: "/home/sovol/klippy-env/bin/python"
+        - cpu: 4.8%
+          pid: 31255
+          memory: 5812
+          command: "/home/sovol/printer_data/build/mksclient"
+        - cpu: 2.6%
+          pid: 67161
+          memory: 0
+          command: "[kworker/0:2-events]"
+    topsCostMemory:
+        - cpu: 7.6%
+          pid: 931
+          memory: 39032
+          command: "/home/sovol/moonraker-env/bin/python"
+        - cpu: 5.6%
+          pid: 922
+          memory: 28360
+          command: "/home/sovol/klippy-env/bin/python"
+        - cpu: 1.1%
+          pid: 162
+          memory: 11100
+          command: "/lib/systemd/systemd-journald"
+        - cpu: 0.0%
+          pid: 1
+          memory: 8392
+          command: "/sbin/init"
+        - cpu: 0.5%
+          pid: 69255
+          memory: 7840
+          command: "sshd:"
+networkStat:
+  rxBytes: 19163
+  txBytes: 7992
+  rxBytesPerSec: 6387
+  txBytesPerSec: 2664
+memory:
+  total: 498752
+  free: 50812
+  used: 192840
+  buffcache: 255100
+  swapTotal: 0
+  swapUsed: 0
+  swapFree: 0
+fsStats:
+  - device: 
+    rxPerSec: 0
+    wxPerSec: 0
+    source: gua
+fsSize:
+    - fs: /dev/root
+      type: ext4
+      size: 7381180
+      available: 2545516
+      percent: 64%
+      mount: /
+cpu:
+    old:
+        - name: cpu
+          loadUser: 344447
+          loadSystem: 233350
+          loadIdle: 4630633
+          loadTotal: 5252609
+        - name: cpu0
+          loadUser: 68492
+          loadSystem: 66849
+          loadIdle: 1156083
+          loadTotal: 1309274
+        - name: cpu1
+          loadUser: 93134
+          loadSystem: 55577
+          loadIdle: 1151584
+          loadTotal: 1309080
+        - name: cpu2
+          loadUser: 91033
+          loadSystem: 56399
+          loadIdle: 1158061
+          loadTotal: 1315695
+        - name: cpu3
+          loadUser: 91787
+          loadSystem: 54523
+          loadIdle: 1164904
+          loadTotal: 1318551
+    new:
+        - name: cpu
+          loadUser: 344557
+          loadSystem: 233487
+          loadIdle: 4631542
+          loadTotal: 5253773
+        - name: cpu0
+          loadUser: 68517
+          loadSystem: 66887
+          loadIdle: 1156308
+          loadTotal: 1309566
+        - name: cpu1
+          loadUser: 93162
+          loadSystem: 55610
+          loadIdle: 1151811
+          loadTotal: 1309369
+        - name: cpu2
+          loadUser: 91063
+          loadSystem: 56430
+          loadIdle: 1158289
+          loadTotal: 1315987
+        - name: cpu3
+          loadUser: 91814
+          loadSystem: 54558
+          loadIdle: 1165133
+          loadTotal: 1318843
+

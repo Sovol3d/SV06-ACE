@@ -1,0 +1,7 @@
+os:
+  type: Debian GNU/Linux
+  id: debian
+  version: 11 (bullseye)
+  versionId: 11
+  prettyName: Debian GNU/Linux 11 (bullseye)
+  versionCodename: bullseye

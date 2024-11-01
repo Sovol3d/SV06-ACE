@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "numbers": "c",
+        "dev_hx711.h": "c",
+        "command.h": "c",
+        "stdint.h": "c"
+    }
+}
